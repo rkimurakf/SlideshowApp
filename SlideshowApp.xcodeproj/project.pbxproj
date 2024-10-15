@@ -13,6 +13,7 @@
 		EA5CFF3E2CABEF6000CCAAEA /* Base in Resources */ = {isa = PBXBuildFile; fileRef = EA5CFF3D2CABEF6000CCAAEA /* Base */; };
 		EA5CFF402CABEF6100CCAAEA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EA5CFF3F2CABEF6100CCAAEA /* Assets.xcassets */; };
 		EA5CFF432CABEF6100CCAAEA /* Base in Resources */ = {isa = PBXBuildFile; fileRef = EA5CFF422CABEF6100CCAAEA /* Base */; };
+		EA5F7C1E2CB7B6DC00D7C6C3 /* ImageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EA5F7C1D2CB7B6DC00D7C6C3 /* ImageViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		EA5CFF3F2CABEF6100CCAAEA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EA5CFF422CABEF6100CCAAEA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EA5CFF442CABEF6100CCAAEA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EA5F7C1D2CB7B6DC00D7C6C3 /* ImageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				EA5CFF362CABEF6000CCAAEA /* AppDelegate.swift */,
 				EA5CFF382CABEF6000CCAAEA /* SceneDelegate.swift */,
 				EA5CFF3A2CABEF6000CCAAEA /* ViewController.swift */,
+				EA5F7C1D2CB7B6DC00D7C6C3 /* ImageViewController.swift */,
 				EA5CFF3C2CABEF6000CCAAEA /* Main.storyboard */,
 				EA5CFF3F2CABEF6100CCAAEA /* Assets.xcassets */,
 				EA5CFF412CABEF6100CCAAEA /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				EA5CFF3B2CABEF6000CCAAEA /* ViewController.swift in Sources */,
 				EA5CFF372CABEF6000CCAAEA /* AppDelegate.swift in Sources */,
+				EA5F7C1E2CB7B6DC00D7C6C3 /* ImageViewController.swift in Sources */,
 				EA5CFF392CABEF6000CCAAEA /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
