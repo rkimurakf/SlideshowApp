@@ -30,6 +30,7 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        imageVIEW.image = imageArray[page]
         
     }
     
@@ -69,7 +70,7 @@ class ViewController: UIViewController {
         imageVIEW.image = imageArray[page]
     }
     //進むボタン
-    @IBAction func up(_ sender: Any) {
+    @IBAction func next(_ sender: Any) {
         if(timer == nil){
             page += 1
         }else{

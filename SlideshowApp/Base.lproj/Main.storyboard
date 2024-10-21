@@ -37,7 +37,7 @@
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" title="進む"/>
                                 <connections>
-                                    <action selector="up:" destination="pRm-o1-PI9" eventType="touchUpInside" id="Yqh-ww-dEY"/>
+                                    <action selector="next:" destination="pRm-o1-PI9" eventType="touchUpInside" id="xfW-US-NJd"/>
                                 </connections>
                             </button>
                             <imageView clipsSubviews="YES" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="NWH-6c-6jl">

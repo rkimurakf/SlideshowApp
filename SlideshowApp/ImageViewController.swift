@@ -14,7 +14,6 @@ class ImageViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
         if let image = receivedImage{
             sendView.image = image
             // Do any additional setup after loading the view.
